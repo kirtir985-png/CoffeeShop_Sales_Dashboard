@@ -9,7 +9,7 @@ Analyze 149K+ coffee shop transactions to extract insights on sales, products, c
 **Key Insights:**  
 - Total Sales: $698K+, Avg Bill: $4.69  
 - Peak Sales Hours: 7–10 AM, Top Weekday: Friday (~$21.7K)  
-- Category Analysis: Coffee ~39% of total sales, Top Product: Barista Espresso (~$81K)  
+- Category Analysis: Coffee accounts for 39% of total sales, with Barista Espresso as the top-selling product (~$81K). 
 - Store Analysis: Hell’s Kitchen (~50.7K) highest-performing location  
 - Interactive dashboard with Month & Day slicers for dynamic reporting
 
