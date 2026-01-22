@@ -1,8 +1,5 @@
-# CoffeeShop_Sales_Dashboard
-Interactive Excel dashboard analyzing Coffee Shop sales using Power Query.
-
 # Coffee Shop Sales Dashboard | Excel (Power Query)
-
+Interactive Excel dashboard analyzing Coffee Shop sales using Power Query.
 **Project Objective:**
 Analyze 149K+ coffee shop transactions to extract insights on sales, products, categories, and store performance.
 
