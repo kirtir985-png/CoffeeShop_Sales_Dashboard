@@ -16,6 +16,7 @@ It provides insights into sales trends, product performance, and customer behavi
 ## Dashboard Preview
 ![Dashboard Preview](coffee_sales_dashboard.png)
 
+
 > **Note:** Open the Excel file (`Coffee sales Dashboard.xlsx`) in Microsoft Excel to explore the dashboard and pivot tables interactively.
 
 ## Skills & Tools
