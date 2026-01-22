@@ -14,8 +14,7 @@ It provides insights into sales trends, product performance, and customer behavi
   - Time-based trends (daily, weekly, monthly)
   
 ## Dashboard Preview
-![Dashboard Preview](coffee_sales_dashboard.png)
-
+![Dashboard Preview](coffeepreview.png)
 
 > **Note:** Open the Excel file (`Coffee sales Dashboard.xlsx`) in Microsoft Excel to explore the dashboard and pivot tables interactively.
 
