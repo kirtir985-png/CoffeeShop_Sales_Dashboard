@@ -1,15 +1,30 @@
-# Coffee Shop Sales Dashboard | Excel (Power Query)
-Interactive Excel dashboard analyzing Coffee Shop sales using Power Query.
+# CoffeeShop Sales Dashboard
 
-**Project Objective:**
-Analyze 149K+ coffee shop transactions to extract insights on sales, products, categories, and store performance.
+## Project Overview
+This project is an **interactive Excel dashboard** analyzing coffee shop sales transactions.  
+It provides insights into sales trends, product performance, and customer behavior.
 
-**Key Insights:**  
-- Total Sales: $698K+, Avg Bill: $4.69  
-- Peak Sales Hours: 7–10 AM, Top Weekday: Friday (~$21.7K)  
-- Category Analysis: Coffee accounts for 39% of total sales, with Barista Espresso as the top-selling product (~$81K). 
-- Store Analysis: Hell’s Kitchen (~50.7K) highest-performing location  
-- Interactive dashboard with Month & Day slicers for dynamic reporting
+## Features
+- Fully functional **Excel dashboard** with charts, slicers, and pivot tables.
+- Cleaned sales transaction data included for transparency.
+- Pivot tables to explore metrics like:
+  - Total sales and average order value
+  - Product and category performance
+  - Location-wise sales comparison
+  - Time-based trends (daily, weekly, monthly)
+  
+## Dashboard Preview
+![Dashboard Preview](coffee_sales_dashboard.png)
 
-**Skills Used:**  
-Excel, Power Query, Data Analysis, Dashboarding
+> **Note:** Open the Excel file (`Coffee sales Dashboard.xlsx`) in Microsoft Excel to explore the dashboard and pivot tables interactively.
+
+## Skills & Tools
+- **Microsoft Excel**: Data cleaning, pivot tables, charts, slicers
+- **Data Analysis**: Sales trend analysis, product insights
+- **Dashboard Design**: Interactive visuals for quick insights
+
+## How to Use
+1. Download the Excel file `Coffee sales Dashboard.xlsx`.  
+2. Open it in Microsoft Excel.  
+3. Use the slicers and pivot tables to explore the sales data interactively.  
+
